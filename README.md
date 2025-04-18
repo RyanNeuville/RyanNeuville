@@ -2,7 +2,7 @@
 
 ## 🌟 About me
 
-Salut ! Je suis `Feukouo Feussi Ryan NEuville`, un développeur passionné par la création de solutions innovantes et efficaces. J'adore explorer de nouvelles technologies et relever des défis complexes. 🚀
+Salut ! Je suis `Feukouo Feussi Ryan Neuville`, un développeur junior passionné par la création de solutions innovantes et efficaces. J'adore explorer de nouvelles technologies et relever des défis complexes. 🚀
 
 🔭 je présentement en 1ere année Génie logiciel et actuellement travaille sur une application e-Commerce en PHP & MySQL<br>👯j'aimerais travailler et collaborer avec une équipe et peut aitre pouvoir faire de l'alternance<br>👨‍💻 je suis entrain d'apprendre des technologie moderne comme angular, React et python et je me donne a font.<br>😁 n'hésitez pas a me demander plus d'informations dans mon cas je ferai de mon mieux pour aider<br>💡il suffit de beaucoup de courage pour y arriver car << c'est la détermination d'aujourd'hui qui mène au succès de demain >>
 
