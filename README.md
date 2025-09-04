@@ -1,50 +1,75 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QvPLbH7q02tHkYc8eI/giphy.gif" alt="Coded animated GIF" width="100"/>
-  <h1>Salut 👋, je suis Ryan Neuville</h1>
 </div>
 
-### 🎓 À propos de moi
+# 👋 Salut ! Je suis Ryan Neuville Feukouo Feussi
 
-Je suis un étudiant passionné de **Génie Logiciel** au Cameroun. J'ai l'ambition de devenir un développeur de premier plan en Afrique, en créant des solutions qui ont un impact réel.
+<div align="center">
+  <p>Étudiant en <strong>Génie Logiciel</strong> au Cameroun, passionné par la création de solutions technologiques impactantes.</p>
+  <p>Mon objectif : devenir un acteur clé de l'écosystème tech en Afrique. ✨</p>
+</div>
 
-Mon voyage dans le monde du code est guidé par une philosophie simple : **"La détermination d’aujourd’hui forge le succès de demain."**
+---
+
+### 🚀 Mes domaines d'expertise
+
+Je suis constamment en apprentissage et en exploration dans plusieurs domaines de la tech :
+
+- 💻 **Développement Logiciel :** Concevoir et construire des applications robustes.
+- 🧠 **Intelligence Artificielle & Big Data :** Utiliser les données pour des solutions intelligentes.
+- 🔒 **Cybersécurité :** Sécuriser les systèmes et les données.
+- ☁️ **Cloud & DevOps :** Automatiser et optimiser les déploiements.
 
 <br>
 
-### 🛠️ Mes compétences techniques
+---
 
-De la conception d'interfaces au développement back-end, voici les outils et technologies que j'utilise :
+### ⚙️ Ma Stack Technique
 
-| Catégorie | Compétences |
-| :--- | :--- |
-| **Langages** | <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></code> JavaScript, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></code> Python, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /></code> Java, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></code> PHP |
-| **Frameworks** | <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg" /></code> Next.js, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/springboot.svg" /></code> Spring Boot, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" /></code> TailwindCSS |
-| **Bases de données** | <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></code> MySQL, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" /></code> PostgreSQL |
-| **Outils & DevOps** | <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></code> Git, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></code> GitHub, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /></code> Docker, <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /></code> Linux |
+Je suis à l'aise avec ces technologies, et toujours prêt à en découvrir de nouvelles !
+
+#### 🔹 Langages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+#### 🔹 Outils & Plateformes
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
-### 💻 Ce que je fais actuellement
+### 🎯 Objectifs & Projets
 
-- 🏗️ Je travaille sur une **portlet Java intégrée à eXo Platform**.
-- 📚 Je me forme en continu sur les technologies **Cloud & DevOps**.
-- 🤝 Je suis ouvert aux collaborations sur des projets open source.
-
----
-
-### 📊 Mon activité GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanNeuville&theme=dark&hide_border=true" alt="Statistiques de la série"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&theme=dark&layout=compact&hide_border=true" alt="Langages principaux"/>
-</div>
+- 💻 **Actuellement :** Je travaille sur une portlet Java pour eXo Platform, avec l'ambition de la rendre plus performante et intuitive.
+- ✅ **En cours d'apprentissage :** Je me forme activement sur Java, Spring Boot, Next.js, Python, et les technologies Cloud & DevOps.
+- 🚀 **Vision 2026 :** Créer un portfolio de projets concrets et impactants, devenir indépendant financièrement grâce à la tech et inspirer la prochaine génération de développeurs en Afrique.
 
 ---
 
-### 🌍 Retrouvez-moi sur
+### 📊 Statistiques
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Ryan's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanNeuville&theme=dark&hide_border=true" alt="Ryan's GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&theme=dark&layout=compact&hide_border=true" alt="Ryan's top languages"/>
+</p>
+
+---
+
+### 🤝 Connectons-nous
 
 <p align="center">
   <a href="https://linkedin.com/in/ryan-neuville-feukouo-feussi-9b2678342" target="_blank">
