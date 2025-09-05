@@ -90,7 +90,3 @@ Je suis polyvalent et j'aime explorer de nouvelles technologies. Voici un aperç
 ## 🎯 Ma vision pour l'avenir
 
 > Mon but est de **construire des solutions technologiques** qui apportent un changement positif dans ma communauté, d'**inspirer les jeunes développeurs en Afrique** 🌍, et de devenir une **référence tech internationale** 🚀.
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RyanNeuville&icon=0&color=0" alt="Nombre de visites"/>
-</div>
