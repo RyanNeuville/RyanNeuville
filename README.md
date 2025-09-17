@@ -7,7 +7,7 @@
 
 ## 🌟 À propos de moi : Le développeur derrière le code
 
-Salut ! Je suis **Feukouo Feussi Ryan Neuville**, étudiant passionné en **1ère année de Génie Logiciel** au Cameroun 🎓.
+Salut ! Je suis **Feukouo Feussi Ryan Neuville**, étudiant passionné en **2ème année de Génie Logiciel** au Cameroun 🎓.
 
 Mon objectif est de devenir un acteur majeur de la tech en Afrique 🌍. Je suis fasciné par la **programmation, l’IA, le Big Data, le Cloud, la cybersécurité et le DevOps**. Chaque ligne de code est une opportunité de construire un futur plus intelligent et plus connecté.
 
