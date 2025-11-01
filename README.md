@@ -63,11 +63,17 @@ Je suis polyvalent et j'aime explorer de nouvelles technologies. Voici un aperç
 ## 📊 Statistiques de mon activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Ryan"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wistantkode&theme=radical&show_icons=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RyanNeuville&theme=dark&hide_border=false" alt="Série de contributions"/>
+  <img src="https://streak-stats.demolab.com?user=wistantkode&theme=radical&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Langages principaux"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistantkode&layout=compact&theme=radical" alt="Top Languages"/>
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=wistantkode&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wistantkode.wistantkode)
+
 </div>
 
 ---
