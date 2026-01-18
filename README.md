@@ -23,3 +23,13 @@
 </div>
 
 ---
+
+<div align="center">
+
+## About me
+
+I am a passionate developer with a particular interest in artificial intelligence, Big Data, Cloud, cybersecurity and DevOps. I like to build innovative and high-performance solutions.
+
+</div>
+
+---
