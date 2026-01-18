@@ -1,98 +1,53 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QvPLbH7q02tHkYc8eI/giphy.gif" alt="Coded animated GIF" width="100"/>
-  <h1>👋 Bienvenue sur mon profil GitHub !</h1>
+  <!-- Header section -->
+  <img src="https://media.giphy.com/media/QvPLbH7q02tHkYc8eI/giphy.gif" alt="Coding" width="100"/>
+  <h1>👋 Ryan Neuville Feukouo Feussi</h1>
+  <p><strong>Full Stack Developer • Cameroon 🇨🇲</strong></p>
+  <p>Java • Spring Boot • Next.js • Python • AI • Cloud • DevOps</p>
+
+  <!-- Social links -->
+
+  <a href="https://www.linkedin.com/in/ryan-neuville-feukouo-feussi-221012342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.tiktok.com/@ryan.feussi.xmind" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://x.com/RyanNeuvil5468" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.youtube.com/@ryanneuville" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <!-- About me -->
+  ## < About me />
+
+  I am a passionate developer with a particular interest in artificial intelligence, Big Data, Cloud, cybersecurity and DevOps. I like to build innovative and high-performance solutions.
+
+  
+
 </div>
 
----
-
-## 🌟 À propos de moi : Le développeur derrière le code
-
-Salut ! Je suis **Feukouo Feussi Ryan Neuville**, étudiant passionné en **2ème année de Génie Logiciel** au Cameroun 🎓.
-
-Mon objectif est de devenir un acteur majeur de la tech en Afrique 🌍. Je suis fasciné par la **programmation, l’IA, le Big Data, le Cloud, la cybersécurité et le DevOps**. Chaque ligne de code est une opportunité de construire un futur plus intelligent et plus connecté.
-
-💻 Actuellement, je me consacre à un projet de **portlet Java intégrée à eXo Platform**. C'est une excellente occasion de mettre en pratique mes connaissances et de relever de nouveaux défis.
-
-🚀 J'apprends et je me perfectionne sur les technologies suivantes :
-* **Java** et **Spring Boot** pour le back-end robuste.
-* **Next.js** pour des applications web modernes.
-* **Python** pour l'IA et la science des données.
-* Les concepts **Cloud & DevOps** pour des déploiements fluides.
-
-🤝 Ma philosophie est de toujours partager mes connaissances et de contribuer à la communauté. Ma détermination est mon principal moteur : *« La détermination d’aujourd’hui forge le succès de demain »*.
-
----
-
-## 🌐 Où me trouver en ligne
-
-<p align="center">
-  <a href="https://linkedin.com/in/ryan-neuville-feukouo-feussi-9b2678342" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tiktok.com/@ryan.feussi" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://x.com/@RyanNeuvil5468" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@ryanneuville" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
-
-## 💻 Ma Stack Technique
-
-Je suis polyvalent et j'aime explorer de nouvelles technologies. Voici un aperçu des outils et langages que j'utilise :
-
-### 🔹 Langages & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🔹 Web & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔹 Bases de Données
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔹 Outils & Data
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 📊 Statistiques de mon activité GitHub
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=radical&show_icons=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=RyanNeuville&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&layout=compact&theme=radical" alt="Top Languages"/>
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RyanNeuville&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+## < Tech Stack />
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RyanNeuville.RyanNeuville)
+| Languages                                                                 | Frameworks & Libraries                                      | Frontend Technologies                                       | Databases                                           | Tools & DevOps                                                                 |
+|:-------------------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:---------------------------------------------------:|:------------------------------------------------------------------------------:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)<br>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 </div>
 
----
+<div align="center">
 
-## 🚀 Objectifs 2026 : Ma feuille de route
+## < GitHub Stats />
 
-* ✅ Créer un **portfolio de projets concrets** avec Spring Boot, Next.js et Python, pour démontrer mon expertise.
-* ✅ Lancer des initiatives technologiques **impactantes** sur mon campus et dans ma ville.
-* ✅ Devenir financièrement indépendant en utilisant mes compétences en **tech**.
-* ✅ Construire et animer une **communauté** de développeurs, axée sur le code et le partage de connaissances.
+<img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=radical&show_icons=true&hide_border=true" alt="Stats"/>
+<img src="https://streak-stats.demolab.com?user=RyanNeuville&theme=radical&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RyanNeuville&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RyanNeuville.RyanNeuville" alt="Visitors"/>
 
----
-
-## 📖 Citation qui m’inspire
-
-> "Le code est comme la peinture : chaque ligne peut devenir une œuvre d’art si elle est écrite avec passion." 🎨💻
-
----
-
-## 🎯 Ma vision pour l'avenir
-
-> Mon but est de **construire des solutions technologiques** qui apportent un changement positif dans ma communauté, d'**inspirer les jeunes développeurs en Afrique** 🌍, et de devenir une **référence tech internationale** 🚀.
+</div>
