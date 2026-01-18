@@ -39,3 +39,15 @@
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)<br>![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 </div>
+
+<div align="center">
+
+## < GitHub Stats />
+
+<img src="https://github-readme-stats.vercel.app/api?username=RyanNeuville&theme=radical&show_icons=true&hide_border=true" alt="Stats"/>
+<img src="https://streak-stats.demolab.com?user=RyanNeuville&theme=radical&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanNeuville&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RyanNeuville&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RyanNeuville.RyanNeuville" alt="Visitors"/>
+
+</div>
